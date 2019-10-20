@@ -1,0 +1,5 @@
+/.idea/
+/ts-dynamic-service-factory.iml
+/node_modules/
+/dist/
+/coverage/
